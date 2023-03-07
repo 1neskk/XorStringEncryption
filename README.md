@@ -2,7 +2,7 @@
 
 ----
 
-A XorStringEncryption program that uses raw pointers to encrypt and decrypt
+A XorStringEncryption program that uses raw pointers to encrypt and decrypt strings
 
 ----
 
